@@ -185,14 +185,16 @@ jupyter>=1.0.0
 ## 📈 Sample Visualizations
 
 ### Top Skills Distribution
-![Top Skills](outputs/plots/01_top_skills.png)
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/fb668f28-1e36-4873-8717-3191a76f4cbb" />
+
 
 ### Salary Analysis
-![Salary Distribution](outputs/plots/02_salary_distribution.png)
+<img width="1013" height="500" alt="image" src="https://github.com/user-attachments/assets/615663ac-2032-4cf0-9812-cd4ec3336dc7" />
+
 
 
 ### Geographic Distribution
-![Geography](outputs/plots/03_geographic_distribution.png)
+<img width="1025" height="506" alt="image" src="https://github.com/user-attachments/assets/38504e3c-5b50-4b69-b08b-29d994707279" />
 
 ## 🎓 Key Learnings & Skills Demonstrated
 
