@@ -40,7 +40,7 @@ def load_data():
 df = load_data()
 
 # Title
-st.title("🇺🇸 USA IT Job Market Analysis 2025")
+st.title("USA IT Job Market Analysis 2025")
 st.markdown("""
 Comprehensive analysis of **2,200+ data analyst and data scientist jobs** in the United States from Glassdoor, revealing:
 - 💰 Salary trends across seniority levels and locations
