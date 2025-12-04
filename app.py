@@ -5,7 +5,7 @@ import plotly.graph_objects as go
 
 # Page config
 st.set_page_config(
-    page_title="USA IT Job Market Analysis 2025",
+    page_title="USA IT Job Market Analysis ",
     page_icon="🇺🇸",
     layout="wide"
 )
@@ -40,7 +40,7 @@ def load_data():
 df = load_data()
 
 # Title
-st.title("USA IT Job Market Analysis 2025")
+st.title("USA IT Job Market Analysis ")
 st.markdown("""
 Comprehensive analysis of **2,200+ data analyst and data scientist jobs** in the United States from Glassdoor, revealing:
 - 💰 Salary trends across seniority levels and locations
